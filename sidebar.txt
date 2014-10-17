@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sqm:home|Door43 (sqm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sqm|d43-sqm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sqm/archive/master.zip|d43-sqm.zip]]
+
+**Recent Changes**
+{{changes>ns = sqm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sqm|Ethnologue data]]
+
